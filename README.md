@@ -1,2 +1,1 @@
-# Northwind-Database-Analysis-DEPI-Graduation
-Northwind Database Analysis DEPI Graduation
+The project follows a structured analytical approach, starting with data exploration and cleaning, followed by defining key questions, performing data analysis, and presenting results through visualization
